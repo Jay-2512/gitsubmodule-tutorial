@@ -1,0 +1,3 @@
+[submodule "clubs"]
+	path = clubs
+	url = git@github.com:Jay-2512/clubs.git
